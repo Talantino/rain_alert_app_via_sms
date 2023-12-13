@@ -11,7 +11,7 @@ auth_token = os.environ.get("AUTH_TOKEN")
 parameters = {
     "lat": 42.88,
     "lon": 74.58,
-    "appid": "cae3a0fa073cba3209553513fd705eec",
+    "appid": "Your API ID",
      "cnt": 4
 }
 
